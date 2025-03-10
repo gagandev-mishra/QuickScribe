@@ -1,0 +1,22 @@
+# LangChain Core
+langchain
+langchain-core
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Envirnoment Variable Management
+python-dotenv
+
+# UI
+streamlit
+
+# Transcribe
+assemblyai
+
+# Download Content from Youtube/Google Drive
+yt_dlp
+
+
+
