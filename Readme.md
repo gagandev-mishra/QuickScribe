@@ -31,8 +31,6 @@ ASSEMBLYAI_API_KEY=your_assemblyai_key_here
 ![QuickScribe Screenshot](https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/main_page.png)  
 ![Chat Window](https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/chat_page.png)  
 
-**Demo Video:**  
-<video controls>
-  <source src=https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/Demo_Video.webm" type="video/webm>
-</video>  
----
+**Demo:**  
+![Demo](https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/demo.gif)
+
