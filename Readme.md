@@ -28,15 +28,11 @@ ASSEMBLYAI_API_KEY=your_assemblyai_key_here
 ```  
 ## 📸 Screenshots & Demo  
 **Screenshot:**  
-![QuickScribe Screenshot]("Demo\main_page.png")  
-![Chat Window]("Demo\chat_page.png")  
+![QuickScribe Screenshot](https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/main_page.png)  
+![Chat Window](https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/chat_page.png)  
 
 **Demo Video:**  
 <video controls>
-
-  <source src="Demo\Demo_Video.webm" type="video/webm">
-  Your browser does not support the video tag.
+  <source src=https://github.com/gagandev-mishra/QuickScribe/blob/master/Demo/Demo_Video.webm" type="video/webm>
 </video>  
 ---
-
-📁 **Project Repository:** [QuickScribe](#)
